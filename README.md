@@ -1,4 +1,4 @@
-# meu_projeto2
-Projeto do curso de Desenvolvimento de Sistemas
+# Primeira Integração com Git
 
-#Título
+### Curso de Desenvolvimento de Sistemas
+Etec Sales Gomes
